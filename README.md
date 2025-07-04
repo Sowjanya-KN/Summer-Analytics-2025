@@ -19,3 +19,9 @@
 + *Topics: Regularization, ROC-AUC, precision/recall, Naive Bayes, KNN, distance metrics, streaming regression*
 + *Focused on both theoretical understanding and practical reasoning*
 
+## *📅 Week 4:*
++ *Learnt Adaboost, lightGBM, Model Drift*
++ *Focused on Decision Trees, Random Forest*
+
+## *📅 Week 5:*
++ *Did Capstone Project*
